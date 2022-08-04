@@ -1,5 +1,6 @@
 business_applications:
   - name: Asana #mandatory
+  - name: Atlassian
 
 microservice:
   name: rapdev-web #mandatory
