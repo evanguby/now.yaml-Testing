@@ -3,6 +3,6 @@ business_applications:
 
 microservice:
   name: rapdev-web #mandatory
-  service_id: 12345 #mandatory
+  service_id: 123456 #mandatory
   infra_group: Business Users #mandatory
   app_group: App Dev #mandatory
