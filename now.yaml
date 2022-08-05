@@ -3,7 +3,7 @@ business_applications:
   - name: Atlassian
 
 microservice:
-  name: rapdev-web #mandatory
+  name: rapdev-web2 #mandatory
   service_id: 123456 #mandatory
   infra_group: Business Users #mandatory
   app_group: App Dev #mandatory
